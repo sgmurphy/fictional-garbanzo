@@ -1,0 +1,18 @@
+{
+  "name": "fictional-garbanzo",
+  "version": "1.0.0",
+  "description": "Demo repository for dependency review action testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "keywords": ["demo", "dependency-review"],
+  "author": "Demo",
+  "license": "MIT"
+}
